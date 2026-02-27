@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おうちであそぼう",
+  "base_artist": "SUKISHA",
+  "createdAt": "2026-02-27T10:14:35.890617Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おうちであそぼう (Live at Shibuya WWW)",
+      "artist": "SUKISHA",
+      "has_synced": false,
+      "path": "select/pl_01_おうちであそぼう_(Live_at_Shibuya_WWW)_SUKISHA.txt"
+    }
+  ]
+}
